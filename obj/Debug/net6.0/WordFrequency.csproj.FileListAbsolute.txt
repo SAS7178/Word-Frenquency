@@ -1,0 +1,15 @@
+C:\Users\steph\workspace\csharp-Stuff\WordFrequency\bin\Debug\net6.0\WordFrequency.exe
+C:\Users\steph\workspace\csharp-Stuff\WordFrequency\bin\Debug\net6.0\WordFrequency.deps.json
+C:\Users\steph\workspace\csharp-Stuff\WordFrequency\bin\Debug\net6.0\WordFrequency.runtimeconfig.json
+C:\Users\steph\workspace\csharp-Stuff\WordFrequency\bin\Debug\net6.0\WordFrequency.dll
+C:\Users\steph\workspace\csharp-Stuff\WordFrequency\bin\Debug\net6.0\WordFrequency.pdb
+C:\Users\steph\workspace\csharp-Stuff\WordFrequency\obj\Debug\net6.0\WordFrequency.csproj.AssemblyReference.cache
+C:\Users\steph\workspace\csharp-Stuff\WordFrequency\obj\Debug\net6.0\WordFrequency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steph\workspace\csharp-Stuff\WordFrequency\obj\Debug\net6.0\WordFrequency.AssemblyInfoInputs.cache
+C:\Users\steph\workspace\csharp-Stuff\WordFrequency\obj\Debug\net6.0\WordFrequency.AssemblyInfo.cs
+C:\Users\steph\workspace\csharp-Stuff\WordFrequency\obj\Debug\net6.0\WordFrequency.csproj.CoreCompileInputs.cache
+C:\Users\steph\workspace\csharp-Stuff\WordFrequency\obj\Debug\net6.0\WordFrequency.dll
+C:\Users\steph\workspace\csharp-Stuff\WordFrequency\obj\Debug\net6.0\refint\WordFrequency.dll
+C:\Users\steph\workspace\csharp-Stuff\WordFrequency\obj\Debug\net6.0\WordFrequency.pdb
+C:\Users\steph\workspace\csharp-Stuff\WordFrequency\obj\Debug\net6.0\WordFrequency.genruntimeconfig.cache
+C:\Users\steph\workspace\csharp-Stuff\WordFrequency\obj\Debug\net6.0\ref\WordFrequency.dll
